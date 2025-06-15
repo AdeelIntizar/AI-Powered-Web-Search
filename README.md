@@ -2,9 +2,9 @@
 
 A Streamlit-based AI research tool that searches across arXiv, Wikipedia, and the web using Groq's LLM models.  
 
-## Output  
-### Dashboard  
-[](dashboard.png)
+## 📸 Output  
+### 🖥️ Dashboard  
+![Dashboard](dashboard.png)
 
 ## Features
 
